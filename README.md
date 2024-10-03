@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @expert369
-- 👀 I’m interested in Web dev
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m passionate Web dev
+- Junior Software Developer BCBI/ERPNext
+- 
 
 <!---
 expert369/expert369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
