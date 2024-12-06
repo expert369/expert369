@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @expert369
-- 👀 I’m passionate Web dev
-- Junior Software Developer BCBI/ERPNext
+- Junior Software Developer BCBI/ERPNext ⚡️
 - 
 
 <!---
