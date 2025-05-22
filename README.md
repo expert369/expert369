@@ -5,7 +5,7 @@ I'm a dedicated Software Developer at BCBI specializing in ERPNext and a passion
 - 💻 About Me
 - 💼 Currently working at BCBI as a Software Developer, focusing on ERPNext customizations and implementations.
 - 🌐 Passionate about web development with hands-on experience in creating dynamic and responsive applications.
-- 🛠️ Proficient in PHP, with a portfolio that includes an e-commerce platform for fishermen, enabling users to sell seafood online efficiently.
+- 🛠️ Proficient in PHP, with a portfolio that includes an e-commerce platform.
 
 🚀 Projects
 - Seafood E-Commerce Platform
