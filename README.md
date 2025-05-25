@@ -67,4 +67,10 @@
   <!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expert369" alt="expert369" /></a></p> -->
 </div>
 <img src="https://raw.githubusercontent.com/expert369/expert369/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/12159803937">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12159803937&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
 
