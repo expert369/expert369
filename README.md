@@ -1,7 +1,6 @@
 <h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/alado-peter-john-3518852a8/">Peter John Alado</a></h1>
-<p>A passionate Software Developer | Frappe | ERPNext Developer from Philippines</p>
-<p>I am an ERPNext developer with over a year of experience, specializing in system implementation and customization. I have successfully implemented end-to-end procurement processes and developed accounting modules tailored to business needs. My work includes building custom reports, automating workflows, and enhancing ERPNext’s core features to improve operational efficiency and decision-making.
-</p>
+<p>A passionate Software Developer | Frappe | ERPNext Developer from the Philippines</p>
+<p>I am an ERPNext developer with over a year of experience, specializing in system implementation, customization, and integrations. I have successfully implemented end-to-end procurement processes, developed accounting modules tailored to business needs, and handled integrations between ERPNext and external systems. My work includes building custom reports, automating workflows, and enhancing ERPNext’s core features to improve operational efficiency and decision-making.</p>
 
 <h3>🚀 Programming Languages:</h3>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
